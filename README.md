@@ -4,8 +4,8 @@
 ## Integrantes del equipo
 
 - **José Manuel Montoya Gallegos**
-- **Ich Mata Trillo**
-- **Juan Pablo Garcia Zepeda**
+- **Abner David Ramos García**
+- **Ich Mata Trillo **
 
 ## Indicaciones
 - Dentro de cada carpeta se debe anexar el cógido necesario para que funcione el ejercicio o la práctica. 
