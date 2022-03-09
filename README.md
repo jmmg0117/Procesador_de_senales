@@ -5,7 +5,7 @@
 
 - **José Manuel Montoya Gallegos**
 - **Abner David Ramos García**
-- **Ich Mata Trillo **
+- **Ich Mata Trillo**
 
 ## Indicaciones
 - Dentro de cada carpeta se debe anexar el cógido necesario para que funcione el ejercicio o la práctica. 
